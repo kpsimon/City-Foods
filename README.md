@@ -6,8 +6,8 @@ A full stack application to store/list cities you've eaten at.
 
 **TODO:**
 - [ ] Setup Server
-  - [ ] Install Dependencies
-  - [ ] Install / Setup Linter
+  - [x] Install Dependencies
+  - [x] Install / Setup Linter
   - [ ] Setup Express App
   - [ ] Setup Not Found and Error Middleware
 - [ ] Model DB

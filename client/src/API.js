@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:8000";
+const API_URL = window.location.hostname === "localhost" ? "http://localhost:8000" : "https://city-foods-api.now.sh";
 
 export async function listLogEntries() {
   const response = await fetch(`${API_URL}/api/logs`);

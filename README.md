@@ -18,20 +18,8 @@ A full stack application to store/list cities you've eaten at.
   - [x] Create a new log entry
 - [x] GET /logs
   - [x] List all log entries
-- [ ] Setup Client
-- [ ] Create form to add new entry
-- [ ] Setup Map SDK on client
-- [ ] List all entries on map
-
-# Log Entry
-
-- Title - Text
-- Description - Text
-- Comments - Text
-- Rating - scale 1 - 5
-- Image - Text - URL
-- Latitude - Number
-- Longitude - Number
-- Address? - Text
-- Created At - DateTime
-- Updated At - DateTime
+- [x] Setup Client
+- [x] Create form to add new entry
+- [x] Setup Map SDK on client
+- [x] List all entries on map
+- [ ] Deploy to now.sh
